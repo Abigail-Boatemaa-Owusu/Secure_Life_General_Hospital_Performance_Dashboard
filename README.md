@@ -1,4 +1,4 @@
-# SECURE LIFE GENERAL HOSPITAL PERFORMANCE DASHBOARD
+# SECURE LIFE GENERAL HOSPITAL PERFORMANCE 
 
 ## INTRODUCTION
 ![](Introductory_Image.png)
@@ -22,7 +22,7 @@ Interactive dashboard file: Secure_Life_Interactive_Dashboard.html (open in a mo
 
 
 ## KEY INSIGHT
-•	The dataset contains 1,000 patient visits across six departments, with 1,000 distinct patient IDs in the supplied records. The visit count should not be described as unique patients in general because repeat visits are possible.
+•	The dataset contains 1,000 patient visits across six departments, with 1,000 distinct patient IDs in the supplied records. 
 •	General recorded the highest visit volume (252 visits; 25.2% of all visits). Neurology recorded the lowest (94).
 •	Orthopedics generated the highest total bill amount (GHS 2,553,862.32), despite not having the highest visit volume. This indicates a materially higher average bill per visit in this department.
 •	The average length of stay across all visits was 4.81 days. Orthopedics had the longest average stay (8.38 days), while Emergency had the shortest (2.03 days).
