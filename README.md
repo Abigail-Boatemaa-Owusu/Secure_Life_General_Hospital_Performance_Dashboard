@@ -17,7 +17,7 @@ Hospital management has observed changes in patient admissions, outstanding medi
 ## DASHBOARD VISUALIZATION
 The figure below is a static preview of the dashboard. The separate HTML dashboard is interactive: use the year, department and payment-status filters to update the KPI cards and charts.
 
-![](Picture_of_Dashboard.PNG)
+![](Picture_of_Dashboard1.PNG)
 Interactive dashboard file: Secure_Life_Interactive_Dashboard.html (open in a modern web browser).
 
 
